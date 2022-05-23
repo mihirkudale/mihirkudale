@@ -1,7 +1,6 @@
 
 
-👋 Hello, I'm Kenneth Leung
-
+👋 Hello, I'm Mihir Kudale
 <!--
 **mihirkudale/mihirkudale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
