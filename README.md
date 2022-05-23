@@ -12,3 +12,4 @@
 
 <a href="https://github.com/mihirkudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mihirkudale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mihir-kudale-90091082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir kudale" height="30" width="40" /></a>
+<a href="mihirkudale1197@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mihir kudale" height="30" width="40" /></a>
