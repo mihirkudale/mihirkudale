@@ -25,4 +25,4 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirkudale&show_icons=true&layout=compact&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" /></p>
 
 ![snake gif]
-https://github.com/mihirkudale/mihirkudale/blob/output/github-contribution-grid-snake.svg
+https://github.com/mihirkudale/mihirkudale/blob/output/github-contribution-grid-snake.gif
