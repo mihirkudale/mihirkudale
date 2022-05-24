@@ -10,7 +10,11 @@
 - 📫 How to reach me **mihirkudale1197@gmail.com**
 - 🌟 *Motivated by the desire to achieve success*
   
-***
+ ### My Recent Certification :
+
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/VMVWAH6B7T7P"><img src="https://github.com/navassherif98/navassherif98/blob/main/assets/IBM%20Data%20Science.png" alt="Portfolio" width="500" height="220"></img></a>  
+#### Repository : [View IBM Data Science Repository ](https://github.com/navassherif98/IBM_Data_Science_Professional_Certification)It contains all Assignment and Quiz Answers of this course.
+  
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
