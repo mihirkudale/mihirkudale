@@ -15,3 +15,5 @@
 <a href="https://github.com/mihirkudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mihirkudale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mihir-kudale-90091082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir kudale" height="30" width="40" /></a>
   
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
+  
