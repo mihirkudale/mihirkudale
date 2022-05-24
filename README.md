@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mihirkudale&label=Profile%20views&color=0e75b6&style=flat" alt="mihirkudale" /> </p>
 
 
-![](https://komarev.com/ghpvc/?username=Harshada-m&style=flat-square)
+![](https://komarev.com/ghpvc/?username=mihirkudale&style=flat-square)
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)**
 
 - 📫 How to reach me **mihirkudale1197@gmail.com**
