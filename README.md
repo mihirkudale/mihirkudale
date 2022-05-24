@@ -9,7 +9,9 @@
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)**
 - 📫 How to reach me **mihirkudale1197@gmail.com**
 - 🌟 *Motivated by the desire to achieve success*
-
+  
+***
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
