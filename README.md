@@ -14,8 +14,21 @@
 
 <a href="https://github.com/mihirkudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mihirkudale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mihir-kudale-90091082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir kudale" height="30" width="40" /></a>
-  
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
+  
+### GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&background=2B2B2B&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&dates=9E9E9E&border=FFFFFF)](https://git.io/streak-stats" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&&show_icons=true&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" />
+</p>
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirkudale&show_icons=true&layout=compact&title_color=ffffff&icon_color=9a8a7a&text_color=daf7dc&bg_color=2b2b2b" /></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mihirkudale/mihirkudale/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
+
+![](https://hit.yhype.me/github/profile?user_id=25875102)
+
   
