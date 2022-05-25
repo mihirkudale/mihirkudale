@@ -12,7 +12,7 @@
   
  ### My Recent Certification :
   
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/VMVWAH6B7T7P"><img src="https://github.com/mihirkudale/mihirkudale/blob/main/assets/IBM%20Data%20Science%20Certificate.png" alt="Portfolio" width="500" height="220"></img></a>
+<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/VMVWAH6B7T7P"><img src="https://github.com/mihirkudale/mihirkudale/blob/main/assets/IBM%20Data%20Science%20Certificate.png" alt="IBM Certificate" width="300" height="220"></img></a>
 
   
   
