@@ -15,9 +15,6 @@
 <a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/VMVWAH6B7T7P"><img src="https://github.com/mihirkudale/mihirkudale/blob/main/assets/IBM%20Data%20Science%20Certificate.png" alt="IBM Certificate" width="300" height="220"></img></a><a target="Data Science Professional Certificate" href="https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb"><img src="https://github.com/mihirkudale/mihirkudale/blob/main/assets/Data%20Science%20Professional%20Certificate.png" alt="Data Science Professional Certificate" width="300" height="220"></img></a> -->
 
   
-
-  
-<img width=20% src="https://www.linkedin.com/in/mihir-kudale-90091082/"></img> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
