@@ -8,7 +8,7 @@
 - 🔭 A Data Science Enthusiastic
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)**
 - 📫 How to reach me **mihirkudale1197@gmail.com**
-- 🌟 *Motivated by the desire to achieve success*
+
   
 <!--  ### My Recent Certification :
   
