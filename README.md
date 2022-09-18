@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
 
-<h2> A Passionate Data Science and Analytics Professional with an MCA,BCA and Dip. in ENTC Engineering from India </h2>
+<h4> A Passionate Data Science and Analytics Professional with an MCA,BCA and Dip. in ENTC Engineering from India </h4>
 
 <p align="left">
  
