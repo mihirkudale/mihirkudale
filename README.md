@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
 
 <p align="left">
-
-![](https://komarev.com/ghpvc/?username=mihirkudale&style=flat-square)
-  
+ 
 - 🔭 A Data Science Enthusiastic
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)**
 - 📫 How to reach me **mihirkudale1197@gmail.com**
