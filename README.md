@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirkudale" alt="mihirkudale" /></a> </p>
 <img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 
 <p align="left">
