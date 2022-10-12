@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
 
-<h3 align="center"> A Passionate Data Science and Analytics Professional with MCA(Management) and BCA(Computer Science) from India </h3>
-
 <p align="left">
  
 - 🔭 A Data Science Enthusiast
