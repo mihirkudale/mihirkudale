@@ -4,7 +4,7 @@
 <p align="left">
  
 - 🔭 A Data Science Enthusiast
-- 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)**  https://camo.githubusercontent.com/29ab27d00d986728c8700abb670472af0dd8be925e79ce372ec451c251f1b473/68747470733a2f2f692e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e77656270
+- 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)** 
 - 📫 How to reach me **mihirkudale1197@gmail.com**
 
   
