@@ -3,7 +3,6 @@
 <p align="left">
  
 - 🔭 A Data Science Enthusiast
-- 🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)**
 - 📫 How to reach me **mihirkudale1197@gmail.com**
 
