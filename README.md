@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
 <p align="center">
+  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
+</p>
   <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
 </p>
 
@@ -10,9 +12,7 @@
 - 🔭 A Data Science Enthusiast
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)** 
 - 📫 How to reach me **mihirkudale1197@gmail.com**
-<p align="right">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
-</p>
+
   
 <!--  ### My Recent Certification :
   
