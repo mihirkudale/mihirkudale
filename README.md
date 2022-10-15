@@ -19,6 +19,7 @@
 
 <a href="https://github.com/mihirkudale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="mihirkudale" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mihir-kudale-90091082/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir kudale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kenjee/"><img src="https://res.cloudinary.com/importdata/image/upload/v1595012354/linkedin_t9qiwy.png" alt="drawing" width="100"/> &nbsp;&nbsp;&nbsp;&nbsp;
   
   
 ### GitHub Stats
