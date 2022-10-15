@@ -5,9 +5,6 @@
     height="270">
   <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
 </p>
-<p align="center">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
-</p>
 
 <img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 
@@ -16,7 +13,9 @@
 - 🔭 A Data Science Enthusiast
 - 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)** 
 - 📫 How to reach me **mihirkudale1197@gmail.com**
-
+<p align="right">
+  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
+</p>
   
 <!--  ### My Recent Certification :
   
