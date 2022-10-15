@@ -6,7 +6,6 @@
   <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
 </p>
 <p align="center">
-   <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/C.gif">
   <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
 </p>
 
