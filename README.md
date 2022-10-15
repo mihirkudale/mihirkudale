@@ -1,4 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
+<p align="center">
+  <img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif"
+    width="270" 
+    height="270">
+  <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
+</p>
+<p align="center">
+   <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/C.gif">
+  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif">
+</p>
+
 <img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 
 <p align="left">
