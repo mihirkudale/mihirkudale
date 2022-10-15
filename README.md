@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
 <p align="center">
-  <img src="https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif"
-    width="270" 
-    height="270">
   <img src="https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif">
 </p>
 
