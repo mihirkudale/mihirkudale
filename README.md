@@ -1,8 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mihir Kudale</h1>
-<p float="left">
-  <img src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main//D.gif>
-  https://github.com/itsdew/Live-in-Action/blob/main/Actions/techstack.gif>
-</p>
 
 <img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 
