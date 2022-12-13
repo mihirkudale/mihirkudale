@@ -2,16 +2,9 @@
 
 <img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 
-<p align="left">
- 
-- 🔭 A Data Science Enthusiast
-- 👨‍💻 All of my projects are available at **[https://github.com/mihirkudale](https://github.com/mihirkudale)** 
-- 📫 How to reach me **mihirkudale1197@gmail.com**
+# 💫 About Me:
+🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>📫 Join my Telegram Channel For More Data Science and Analytics Resource Material<br>https://t.me/DataScience_224<br><br>👨‍💻 All of my projects are available at<br>https://github.com/mihirkudale<br><br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
-  
-<!--  ### My Recent Certification :
-  
-<a target="IBM Data Science Certificate" href="https://www.coursera.org/account/accomplishments/professional-cert/VMVWAH6B7T7P"><img src="https://github.com/mihirkudale/mihirkudale/blob/main/assets/IBM%20Data%20Science%20Certificate.png" alt="IBM Certificate" width="300" height="220"></img></a><a target="Data Science Professional Certificate" href="https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb"><img src="https://github.com/mihirkudale/mihirkudale/blob/main/assets/Data%20Science%20Professional%20Certificate.png" alt="Data Science Professional Certificate" width="300" height="220"></img></a> -->
 
   
 <h3 align="left">Connect with me:</h3>
