@@ -3,7 +3,7 @@
 <img align="center" height="290px" width="700px" src="https://static.wixstatic.com/media/3eee0b_bc230abd081f486f9f767abc7c674157~mv2.gif">
 
 # 💫 About Me:
-🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>📫 Join my Telegram Channel For More Data Science and Analytics Resource Material<br>https://t.me/DataScience_224<br><br>👨‍💻 All of my projects are available at<br>https://github.com/mihirkudale<br><br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
+🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>👨‍💻 All of my projects are available at<br>https://github.com/mihirkudale<br><br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
 
   
