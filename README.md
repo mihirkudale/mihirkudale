@@ -8,7 +8,8 @@
 
   
 # Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirkudale/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirkudale/)([![Gmail](https://img.shields.io/badge/Gmail-%230077B5.svg?logo=Gmail&logoColor=White)](mihirkudale1197@gmail.com) 
+ 
 
   
 # GitHub Stats
