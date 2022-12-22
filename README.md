@@ -15,7 +15,7 @@
 🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>👨‍💻 All of my projects are available at<br>https://github.com/mihirkudale<br><br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
   
-# Connect with me:
+#### Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirkudale/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
