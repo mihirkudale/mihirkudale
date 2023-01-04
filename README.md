@@ -12,7 +12,7 @@
 
 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-🔭 A Data Science Enthusiast.<br><br>🌱 I’m currently learning Machine Learning/Deep Learning/NLP/Computer Vision<br><br>👨‍💻 All of my projects are available at<br>https://github.com/mihirkudale<br><br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
+🔭 A Data Science Enthusiast.<br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
   
 #### Connect with me:
