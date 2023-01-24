@@ -12,7 +12,9 @@
 
 * 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-* 🔭 A Data Science Enthusiast. 💬 Ask me about data analytics, data science<br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
+* 💬 Ask me about data analytics, data science
+* 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
+* 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
   
 #### Connect with me:
