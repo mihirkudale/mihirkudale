@@ -6,13 +6,13 @@
 ### Hi there, I'm Mihir Kudale
 #### About :
 
-🔭 I have completed my masters in computer applications(MCA) from Pune University.
+* 🔭 I have completed my masters in computer applications(MCA) from Pune University.
 
-🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
+* 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
-💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
+* 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
-🔭 A Data Science Enthusiast.<br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
+* 🔭 A Data Science Enthusiast. 💬 Ask me about data analytics, data science<br>📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/<br> 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
   
 #### Connect with me:
