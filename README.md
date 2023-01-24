@@ -8,7 +8,7 @@
 
 #### About :
 
-* 🔭 I have completed my masters in computer applications(MCA) from Pune University.
+* 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
 
 * 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
