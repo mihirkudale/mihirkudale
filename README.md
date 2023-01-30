@@ -2,10 +2,7 @@
 
 # Hey! Nice to see you.
 
-<h2 align="center">Hi, I'm Mihir Kudale 
-  
-  
-##### A Passionate Data Science and Analytics Professional with MCA from India</h2>
+<h2 align="center">Hi, I'm Mihir Kudale</h2>
 
 ## **ABOUT ME**
 
