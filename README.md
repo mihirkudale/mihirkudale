@@ -18,6 +18,14 @@
 * 💬 Ask me about data analytics, data science
 * 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
+
+## **LANGUAGES AND TOOLS**
+
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"      /> </a> 
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
   
 ## **CONNECT WITH ME**:
 <a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
