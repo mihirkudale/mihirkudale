@@ -6,9 +6,8 @@
 # Hey! Nice to see you.
 
 <h2 align="center">Hi, I'm Mihir Kudale </h2>
-<h3 align="center">A passionate data scientist</h3>
 
-#### About :
+## **ABOUT ME**
 
 * 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
 
