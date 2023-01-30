@@ -2,8 +2,8 @@
 
 # Hey! Nice to see you.
 
-<h2 align="center">Hi, I'm Mihir Kudale </h2>
-<h2 align="center">A PAssionate Data Science Professional</h2>
+<h2 align="center">Hi, I'm Mihir Kudale 
+A Passionate Data Science Professional</h2>
 
 ## **ABOUT ME**
 
