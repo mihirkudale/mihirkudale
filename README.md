@@ -21,7 +21,7 @@
 
 ## **STREAK STATS**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mihirkudale)](https://github.com/mihirkudale/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=mihirkudale&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 ## **CONNECT WITH ME**:
 <a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
