@@ -26,7 +26,7 @@
    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%233F4F75.svg?style=for-the-badge&logo=numpy&logoColor=white" </a>
    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" </a>
     <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" </a>
-    <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/VsCode-F37626.svg?&style=for-the badge&logo=Vscode&logoColor=green" </a>
+    
     
 
   
