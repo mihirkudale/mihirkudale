@@ -11,7 +11,7 @@
 
 * 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
 
-* <a href = "https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb?source=linked_in_profile"><img src="https://img.shields.io/badge/IBM DATA SCIENCE PROFESSIONAL-0077B5?style=for-the-badge&logo=IBM&logoColor=white" /> </a> <a href = "https://www.credly.com/badges/a3815cbd-8a79-4336-92e7-ba5e9a257c75/public_url"><img src="https://img.shields.io/badge/Google DATA ANALYTICS PROFESSIONAL- FBBC05? #EA4335?style=for-the-badge&logo=Google&logoColor=white" /> 
+* <a href = "https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb?source=linked_in_profile"><img src="https://img.shields.io/badge/IBM DATA SCIENCE PROFESSIONAL-0077B5?style=for-the-badge&logo=IBM&logoColor=white" /> </a> <a href = "https://www.credly.com/badges/a3815cbd-8a79-4336-92e7-ba5e9a257c75/public_url"><img src="https://img.shields.io/badge/Google DATA ANALYTICS PROFESSIONAL style=for-the-badge&logo=Google&logoColor=white" /> 
 * 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
 * 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
