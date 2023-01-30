@@ -20,6 +20,8 @@
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
 ## **STREAK STATS**
+  
+<!-- [![Trophy](https://github-profile-trophy.vercel.app/?username=mihirkudale)](https://https://github.com/mihirkudale/github-profile-trophy)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
