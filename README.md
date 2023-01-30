@@ -23,7 +23,8 @@
 
 <p align="left"> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> </a>
-    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> </a> 
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" /> </a>
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> </a>
 
   
 ## **CONNECT WITH ME**:
