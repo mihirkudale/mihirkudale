@@ -23,12 +23,6 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
-
-
   
 ## **CONNECT WITH ME**:
 <a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
