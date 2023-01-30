@@ -10,7 +10,6 @@
 ## **ABOUT ME**
 
 * 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
-
 * 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing. 
 
 * 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
@@ -19,15 +18,6 @@
 * 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
-## **LANGUAGES AND TOOLS**
-
-<p align="left"> 
-   <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" </a>
-   <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/numpy-%233F4F75.svg?style=for-the-badge&logo=numpy&logoColor=white" </a>
-   <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" </a>
-    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" </a>
-    
-    
 
   
 ## **CONNECT WITH ME**:
