@@ -4,6 +4,10 @@
 
 <h2 align="center">Hi, I'm Mihir Kudale </h2>
 
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/mihirkudale/count.svg?align=center)
+
 ## **ABOUT ME**
 
 * 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
