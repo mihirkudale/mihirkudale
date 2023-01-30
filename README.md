@@ -5,7 +5,7 @@
 <h2 align="center">Hi, I'm Mihir Kudale 
   
   
-A Passionate Data Science and Analytics Professional with MCA from India</h2>
+##### A Passionate Data Science and Analytics Professional with MCA from India</h2>
 
 ## **ABOUT ME**
 
