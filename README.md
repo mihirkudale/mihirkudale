@@ -4,10 +4,6 @@
 
 <h2 align="center">Hi, I'm Mihir Kudale </h2>
 
-<!--  PROFILES VIEWS -->
-🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![visitors](https://profile-counter.glitch.me/mihirkudale/count.svg?align=center)
-
 ## **ABOUT ME**
 
 * 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
@@ -31,3 +27,8 @@
 ## **CONNECT WITH ME**:
 <a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href = "mailto: mihirkudale1197@gmail.com"><img src="https://img.shields.io/badge/Gmail-f5f6f7?style=for-the-badge&logo=Gmail&logoColor=red" /> </a>
+
+<!--  PROFILES VIEWS -->
+🌱 **Profile Views**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![visitors](https://profile-counter.glitch.me/mihirkudale/count.svg?align=center)
+
