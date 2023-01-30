@@ -18,15 +18,14 @@
 * 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
-
-  
-## **CONNECT WITH ME**:
-<a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-<a href = "mailto: mihirkudale1197@gmail.com"><img src="https://img.shields.io/badge/Gmail-f5f6f7?style=for-the-badge&logo=Gmail&logoColor=red" /> </a>
-
-
+## **STREAK STATS**
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
+
+  
+## **CONNECT WITH ME**:
+<a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+<a href = "mailto: mihirkudale1197@gmail.com"><img src="https://img.shields.io/badge/Gmail-f5f6f7?style=for-the-badge&logo=Gmail&logoColor=red" /> </a
