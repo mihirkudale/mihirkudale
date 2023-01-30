@@ -1,3 +1,6 @@
+# Hey! Nice to see you.
+
+<h2 align="center">Hi, I'm Mihir Kudale </h2>
 <img width="500" alt="startlab-bg" src="https://user-images.githubusercontent.com/90020715/208297126-61088dcd-48ef-4eb8-8868-8c967cab9f6f.png">
 
 
