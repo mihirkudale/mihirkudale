@@ -20,7 +20,7 @@
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
   
 ## **CONNECT WITH ME**:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mihirkudale/)
+<a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
 
