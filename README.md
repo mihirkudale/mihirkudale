@@ -20,11 +20,12 @@
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
 ## **STREAK STATS**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
 
   
 ## **CONNECT WITH ME**:
