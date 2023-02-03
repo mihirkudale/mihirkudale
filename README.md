@@ -2,6 +2,9 @@
 
 <h2 align="center">Hi, I'm Mihir Kudale</h2>
 
+<img aling="middle" width='500' src='[https://www.shutterstock.com/image-photo/data-science-deep-learning-artificial-260nw-1247255884.jpg](https://s40424.pcdn.co/in/wp-content/uploads/2022/07/data-science-courses1-650x325.jpg)'>
+
+
 ## **ABOUT ME**
 
 * 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| Full Stack Data Science🎖️
