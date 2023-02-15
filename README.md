@@ -1,7 +1,10 @@
 # Hey! Nice to see you.
 
 
-
+<video width="320" height="240" controls>
+  <source src="myvideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 
 <h2 align="center">Hi, I'm Mihir Kudale</h2>
