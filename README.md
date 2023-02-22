@@ -26,6 +26,7 @@
 ## **STREAK STATS**
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
 
+
 ## **CONNECT WITH ME**:
 <a href = "https://www.linkedin.com/in/mihirkudale/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href = "mailto: mihirkudale1197@gmail.com"><img src="https://img.shields.io/badge/Gmail-f5f6f7?style=for-the-badge&logo=Gmail&logoColor=red" /> </a>
