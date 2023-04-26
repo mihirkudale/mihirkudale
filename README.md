@@ -10,7 +10,8 @@
 
 ## **ABOUT ME**
 
-* 🔭 MCA🎓| IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️
+* 👀 A Data Science Enthusiast with Masters in Computer Applications from India.
+* 🔭 IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️
 * Currently working as Full Stack Data Science Intern at **iNeuron.ai**
 
   <a href = "https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb?source=linked_in_profile"><img src="https://img.shields.io/badge/IBM DATA SCIENCE  PROFESSIONAL-0077B5?style=for-the-badge&logo=IBM&logoColor=white" /> </a> 
