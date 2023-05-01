@@ -25,9 +25,13 @@
 * 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
-## **STREAK STATS**
+## GitHub Stats 💯
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
+
+## Consistency is key ✨
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
- 
  ## **PORTFOLIO**
 
 <a href="https://linktr.ee/mihirkudale">
