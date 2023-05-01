@@ -32,8 +32,8 @@
 
 ## Consistency is key ✨
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale&" alt="mihirkudale" /></p>
+  
  ## **PORTFOLIO**
-
 <a href="https://linktr.ee/mihirkudale">
   <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
 </a>
