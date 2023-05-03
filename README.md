@@ -10,7 +10,7 @@
 
 ## **ABOUT ME**
 
-* 👀 A Data Science Enthusiast with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
+* 👀 A Data Science Professional with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
 * 🔭 Currently working as Full Stack Data Science Intern at **iNeuron.ai**
 * 🔭 IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️
 
