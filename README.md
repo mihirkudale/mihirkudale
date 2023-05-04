@@ -1,6 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+
 ## **ABOUT ME**
 
 * 👀 A Data Science Professional with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
