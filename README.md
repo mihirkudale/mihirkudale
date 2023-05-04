@@ -13,7 +13,7 @@
   <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-</div>
+  </div>
 </div>
   <h1>
   Hey! Nice to see you
