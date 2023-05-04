@@ -4,11 +4,10 @@
 
 # Hey! Nice to see you.
 
-
-<video width="320" height="240" controls>
-  <source src="myvideo.mp4" type="video/mp4">
-</video>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <h2 align="center">Hi, I'm Mihir Kudale</h2>
 
