@@ -5,9 +5,9 @@
 <h1>
   Hey! Nice to see you
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hi, I'm Mihir Kudale
 </h1>
 
-<h2 align="center">Hi, I'm Mihir Kudale</h2>
 
 
 ## **ABOUT ME**
