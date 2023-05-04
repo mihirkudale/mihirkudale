@@ -6,6 +6,7 @@
   </a>
 </div>
 </div>
+
 ## **ABOUT ME**
 
 * 👀 A Data Science Professional with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
