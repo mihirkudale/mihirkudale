@@ -9,6 +9,7 @@
 
 <h2 align="center">Hi, I'm Mihir Kudale</h2>
 
+
 ## **ABOUT ME**
 
 * 👀 A Data Science Professional with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
