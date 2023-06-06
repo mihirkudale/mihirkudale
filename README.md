@@ -37,8 +37,8 @@
 * 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📫 How to reach me mihirkudale1197@gmail.com<br><br>
 
-👩‍💻 I'm working on
-Building projects and my portfolio
+* 👩‍💻 I'm working on
+  Building projects and my portfolio
 
 ## GitHub Stats 💯
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
