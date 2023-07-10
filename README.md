@@ -35,7 +35,7 @@
 
 * 💬 Ask me about data analytics, data science
 * 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
-* 📫 How to reach me mihirkudale1197@gmail.com<br><br>
+* 📫 How to reach me mihirkudale94@outlook.com<br><br>
 
 * 👩‍💻 I'm working on
   Building projects and my portfolio
