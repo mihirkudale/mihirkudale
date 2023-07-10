@@ -7,7 +7,7 @@
    <a href="https://linktr.ee/mihirkudale">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
   </a>
-  <a href="mailto:mihirkudale1197@gmail.com">
+  <a href="mailto:mihirkudale94@outlook.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
