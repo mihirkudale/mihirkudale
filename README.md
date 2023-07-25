@@ -1,5 +1,10 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+</p>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mihirkudale/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
