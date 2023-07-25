@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+&+Data+Scientist;Always+learning+new+things;IBM+Ceritified+Data+Science+Professional;Google+Certified+Data+Analytics+Professional;iNueron.ai(PW SkIlls)+Certified+Masters+in+Full+Stack+Data+Sceince;Datacamp+Certified+Data+Analyst+in+PowerBI&center=true&width=380&height=45"></a>
-</p>
+  <p align="center">
+  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+and+Data+Scientist;Always+learning+new+things;IBM+Certified+Data+Science+Professional;Google+Certified+Data+Analytics+Professional;iNeuron.ai(PW Skills)+Certified+Masters+in+Full+Stack+Data+Science;Datacamp+Certified+Data+Analyst+in+PowerBI&center=true&width=380&height=45"></a> </p>
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/mihirkudale/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
