@@ -3,7 +3,7 @@
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist&+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
+  <a href="https://github.com/pik1989"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Scientist+Data+Analyst;Always+learning+new+things&center=true&width=380&height=45"></a>
 </p>
   <div id="badges">
   <a href="https://www.linkedin.com/in/mihirkudale/">
