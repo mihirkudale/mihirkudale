@@ -3,7 +3,7 @@
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
-  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+and+Data+Scientist; Always+learning+new+things; IBM+Certified+Data+Science+Professional; Google+Certified+Data+Analytics+Professional; iNeuron.ai+Certified+Masters+in+Full+Stack+Data+Science; Datacamp+Certified+Data+Analyst+in+PowerBI&center=true&width=380&height=45"></a> 
+  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+and+Data+Scientist;Always+learning+new+things;IBM+Certified+Data+Science+Professional;Google+Certified+Data+Analytics+Professional;iNeuron.ai+Certified+Masters+in+Full+Stack+Data+Science;Datacamp+Certified+Data+Analyst+in+PowerBI&center=true&width=380&height=45"></a> 
   </p>
 
   <div id="badges">
