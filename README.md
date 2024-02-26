@@ -42,7 +42,7 @@
 * 💬 Ask me about data analytics, data science
 * 📝 Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📝 Portfolio Website --> https://www.datascienceportfol.io/mihirkudale
-* 📝 Tableau Portfolio -->
+* 📝 Tableau Portfolio --> https://public.tableau.com/app/profile/mihir.kudale/vizzes
 * 📫 How to reach me mihirkudale94@gmail.com<br><br>
 
 * 👩‍💻 I'm working on
