@@ -13,7 +13,7 @@
    <a href="https://linktr.ee/mihirkudale">
     <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
   </a>
-  <a href="mailto:mihirkudale94@outlook.com">
+  <a href="mailto:mihirkudale94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   </div>
@@ -40,8 +40,10 @@
 * 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
 
 * 💬 Ask me about data analytics, data science
-* 📝 I regularly write articles on<br> Linkedin --> https://www.linkedin.com/in/mihirkudale/
-* 📫 How to reach me mihirkudale94@outlook.com<br><br>
+* 📝 Linkedin --> https://www.linkedin.com/in/mihirkudale/
+* 📝 Portfolio Website --> https://www.datascienceportfol.io/mihirkudale
+* 📝 Tableau Portfolio -->
+* 📫 How to reach me mihirkudale94@gmail.com<br><br>
 
 * 👩‍💻 I'm working on
   Building projects and my portfolio
