@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/mihirkudale/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-   <a href="https://linktr.ee/mihirkudale">
-    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree Badge"/>
+  <a href="https://taplink.cc/mihirkudale">
+  <img src="https://img.shields.io/badge/Taplink-FF5733?style=for-the-badge&logo=taplink&logoColor=white" alt="Taplink Badge"/>
   </a>
   <a href="mailto:mihirkudale94@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
