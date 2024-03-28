@@ -43,6 +43,8 @@
 * 📝 Linkedin --> https://www.linkedin.com/in/mihirkudale/
 * 📝 Portfolio Website --> https://www.datascienceportfol.io/mihirkudale
 * 📝 Tableau Portfolio --> https://public.tableau.com/app/profile/mihir.kudale/
+* 📝 Power BI Portfolio --> https://www.novypro.com/profile_projects/mihirkudale-1
+
 * 📫 How to reach me mihirkudale94@gmail.com<br><br>
 
 * 👩‍💻 I'm working on
