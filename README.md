@@ -1,9 +1,14 @@
 <div id="header" align="center">
-  <p align="center">
-  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+and+Data+Scientist;Always+learning+new+things;&center=true&width=360&height=45"></a> 
-  </p>
-
-  <div id="badges">
+  <h2>
+    Hi there, I'm Mihir Kudale👋
+  </h2>
+  <div align="center">
+    <img alt="gif" align="center" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width=300 height=300/>
+  </div>
+  <div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+and+Data+Scientist;Passioate+AI+Engineer" alt="Headline" />
+    </div>
+    <div id="badges">
   <a href="https://www.linkedin.com/in/mihirkudale/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,11 +21,6 @@
   </div>
       <img src="https://komarev.com/ghpvc/?username=mihirkudale&style=flat-square&color=blue" alt=""/>
   <h3>
-    Hi there, I'm Mihir Kudale👋
-  </h3>
-  <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 </div>
 
 ## **ABOUT ME**
