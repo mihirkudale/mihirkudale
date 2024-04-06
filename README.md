@@ -26,4 +26,4 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="GitHub Stats">
   
-Thanks for visiting my profile.
+**_Thanks for visiting my profile._**
