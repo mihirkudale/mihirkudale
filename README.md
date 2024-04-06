@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <p align="center">
-  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+Data+Scientist+AI Engineer;Always+learning+new+things;&center=true&width=380&height=45"></a> 
+  <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+Data+Scientist+AI+Engineer;Always+learning+new+things;&center=true&width=380&height=45"></a> 
   </p>
 
   <div id="badges">
