@@ -4,17 +4,6 @@
   <img alt="gif" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width="300" height="300">
   </div>
   <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+and+Data+Scientist;Passionate+AI+Engineer" alt="Headline">
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/mihirkudale/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-    </a>
-    <a href="https://taplink.cc/mihirkudale">
-      <img src="https://img.shields.io/badge/Taplink-FF5733?style=flat-square&logo=taplink&logoColor=white" alt="Taplink Badge">
-    </a>
-    <a href="mailto:mihirkudale94@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a>
-  </div>
 </div>
 
 ## ABOUT ME
