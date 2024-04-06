@@ -1,7 +1,5 @@
 <div id="header" align="center">
   <p align="center">
-  <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
-  ![](https://allhacked.com/up/2019/03/hello-world.gif)
   <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+and+Data+Scientist;Always+learning+new+things;&center=true&width=380&height=45"></a> 
   </p>
 
