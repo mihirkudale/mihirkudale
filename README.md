@@ -1,6 +1,7 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+  <img src="https://cdn.discordapp.com/emojis/778638806877732894.gif" width="25px">
+![](https://allhacked.com/up/2019/03/hello-world.gif)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=F77676&width=500&lines=This+is+my+GitHub+stats">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <p align="center">
   <a href="https://github.com/your-github-username"><img src="https://readme-typing-svg.herokuapp.com?lines=Data+Analyst+and+Data+Scientist;Always+learning+new+things;&center=true&width=380&height=45"></a> 
