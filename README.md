@@ -16,7 +16,7 @@
   </div>
       <img src="https://komarev.com/ghpvc/?username=mihirkudale&style=flat-square&color=blue" alt=""/>
   <h3>
-    Hi there, I'm MIhir Kudale👋
+    Hi there, I'm Mihir Kudale👋
   </h3>
   <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
