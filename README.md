@@ -1,56 +1,45 @@
-<div id="header" align="center">
-  <h2>
-    Hi there, I'm Mihir Kudale👋
-  </h2>
+<div align="center">
+  <h2>Hi there, I'm Mihir Kudale! 👋</h2>
   <div align="center">
-    <img alt="gif" align="center" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width=300 height=300/>
+  <img alt="gif" src="https://github.com/Wandrys-dev/Wandrys-dev/blob/main/git.gif" width="300" height="300">
   </div>
-  <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+and+Data+Scientist;Passioate+AI+Engineer" alt="Headline" />
-    </div>
-    <div id="badges">
-  <a href="https://www.linkedin.com/in/mihirkudale/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://taplink.cc/mihirkudale">
-  <img src="https://img.shields.io/badge/Taplink-FF5733?style=for-the-badge&logo=taplink&logoColor=white" alt="Taplink Badge"/>
-  </a>
-  <a href="mailto:mihirkudale94@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Data+Analyst+and+Data+Scientist;Passionate+AI+Engineer" alt="Headline">
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/mihirkudale/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+    </a>
+    <a href="https://taplink.cc/mihirkudale">
+      <img src="https://img.shields.io/badge/Taplink-FF5733?style=for-the-badge&logo=taplink&logoColor=white" alt="Taplink Badge">
+    </a>
+    <a href="mailto:mihirkudale94@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge">
+    </a>
   </div>
-      <img src="https://komarev.com/ghpvc/?username=mihirkudale&style=flat-square&color=blue" alt=""/>
-  <h3>
 </div>
 
-## **ABOUT ME**
+## ABOUT ME
 
-* 🔭 Former Data Analyst at Amazon | IBM Data Science Professional Certified🎖️| Google Data Analytics Professional Certified🎖️| Datacamp Certified Data Analyst in Power BI🎖️| iNeuron Certified Full Stack Data Science🎖️
-* 👀 A Data Science Professional with Master's Degree in Computer Applications (MCA) and also a Diploma in Electronics and Telecommunication Engineer🎓
+- Former Data Analyst at Amazon | IBM Data Science Professional Certified 🎖️ | Google Data Analytics Professional Certified 🎖️ | Datacamp Certified Data Analyst in Power BI 🎖️ | iNeuron Certified Full Stack Data Science 🎖️
+- A Data Science Professional with Master's Degree in Computer Applications (MCA) and a Diploma in Electronics and Telecommunication Engineering 🎓
+- Passionate about Artificial Intelligence, Deep Learning, Machine Learning, Natural Language Processing, and Data Analytics.
+- Personal motive is to build AI-based solutions that solve high-impact problems globally and simplify everyday living.
+- Ask me about data analytics, data science.
+- LinkedIn: [mihirkudale](https://www.linkedin.com/in/mihirkudale/)
+- Portfolio Website: [datascienceportfol.io/mihirkudale](https://www.datascienceportfol.io/mihirkudale)
+- Tableau Portfolio: [public.tableau.com/mihir.kudale](https://public.tableau.com/app/profile/mihir.kudale/)
+- Power BI Portfolio: [novypro.com/mihirkudale-1](https://www.novypro.com/profile_projects/mihirkudale-1)
+- Contact: mihirkudale94@gmail.com
 
-  <a href = "https://www.credly.com/badges/36e4432a-25da-409a-90ef-2c4d9ccfaffb?source=linked_in_profile"><img src="https://img.shields.io/badge/IBM DATA SCIENCE  PROFESSIONAL-0077B5?style=for-the-badge&logo=IBM&logoColor=white" /> </a> 
-  <a href = "https://www.credly.com/badges/a3815cbd-8a79-4336-92e7-ba5e9a257c75/public_url"><img src="https://img.shields.io/badge/Google DATA ANALYTICS PROFESSIONAL -f5f6f7?style=for-the-badge&logo=Google&logoColor=blue" /> 
-  
-* 🔭 I am really passionate about Artificial Intelligence, Deep Learning, Machine Learning and Natural Language Processing & Data Analytics.
+### I'm currently working on
 
-* 💬 My Personal motive is to give my full potential to build AI-based solutions that solve a high-impact problem for people around the globe and simplify everyday living.
-
-* 💬 Ask me about data analytics, data science
-* 📝 Linkedin --> https://www.linkedin.com/in/mihirkudale/
-* 📝 Portfolio Website --> https://www.datascienceportfol.io/mihirkudale
-* 📝 Tableau Portfolio --> https://public.tableau.com/app/profile/mihir.kudale/
-* 📝 Power BI Portfolio --> https://www.novypro.com/profile_projects/mihirkudale-1
-
-* 📫 How to reach me mihirkudale94@gmail.com<br><br>
-
-* 👩‍💻 I'm working on
-  Building projects and my portfolio
+Building projects and my portfolio
 
 ## GitHub Stats 💯
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirkudale&show_icons=true&locale=en&layout=compact" alt="mihirkudale" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirkudale&show_icons=true&locale=en" alt="mihirkudale" />
   
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### Show some ❤️ by starring some of the repositories!
 
 
