@@ -14,6 +14,7 @@
 - 🚀 Passionate about AI, Deep Learning, Machine Learning, NLP, and Data Analytics
 - 💬 Personal mission: To build AI-based solutions that solve global problems and simplify everyday life
 - 📝 [LinkedIn](https://www.linkedin.com/in/mihirkudale/) | [Portfolio Website](https://www.datascienceportfol.io/mihirkudale) | [Tableau Portfolio](https://public.tableau.com/app/profile/mihir.kudale/) | [Power BI Portfolio](https://www.novypro.com/profile_projects/mihirkudale-1)
+- ⚡ Fun fact I'm also a Electronics and Telecommunication Engineer.
 - 📫 Contact: mihirkudale94@gmail.com
 
 ### CURRENT PROJECTS
