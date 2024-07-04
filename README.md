@@ -9,12 +9,12 @@
 ## ABOUT ME
 
 - 💼 Former Data Analyst at Amazon
-- 🎖️ 3x Microsoft Certified including Azure AI Engineer, Data Scientist , Power BI Data Analyst | IBM Data Science Professional Certified | Google Data Analytics & Business Intelligence Professional Certified | iNeuron Certified Full Stack Data Science
+- 🎖️ 3x Microsoft Certified, including Azure AI Engineer, Data Scientist, and Power BI Data Analyst | IBM Data Science Professional Certified | Google Data Analytics & Business Intelligence Professional Certified | iNeuron Certified Full Stack Data Science
 - 🎓 Master's Degree in Computer Applications (MCA)
 - 🚀 Passionate about AI, Deep Learning, Machine Learning, NLP, and Data Analytics
 - 💬 Personal mission: To build AI-based solutions that solve global problems and simplify everyday life
 - 📝 [LinkedIn](https://www.linkedin.com/in/mihirkudale/) | [Portfolio Website](https://www.datascienceportfol.io/mihirkudale) | [Tableau & Power BI Portfolio](https://mavenanalytics.io/profile/Mihir-Kudale/192669955)
-- ⚡ Fun fact I'm also a Jr. Electronics and Telecommunication Engineer
+- ⚡ Fun fact: I'm also a Jr. Electronics and Telecommunication Engineer
 - 📫 Contact: mihirkudale94@gmail.com
 
 ## :hammer_and_wrench: LANGUAGES AND TOOLS :
