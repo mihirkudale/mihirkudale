@@ -9,7 +9,7 @@
 ## ABOUT ME
 
 - 💼 Former Data Analyst at Amazon
-- 🎖️ Microsott Certified Data Scientist & Data Analyst | IBM Data Science Professional Certified | Google Data Analytics & Business Intelligence Professional Certified | iNeuron Certified Full Stack Data Science
+- 🎖️ 3x Microsoft Certified including Azure AI Engineer, Data Scientist , Power BI Data Analyst | IBM Data Science Professional Certified | Google Data Analytics & Business Intelligence Professional Certified | iNeuron Certified Full Stack Data Science
 - 🎓 Master's Degree in Computer Applications (MCA)
 - 🚀 Passionate about AI, Deep Learning, Machine Learning, NLP, and Data Analytics
 - 💬 Personal mission: To build AI-based solutions that solve global problems and simplify everyday life
