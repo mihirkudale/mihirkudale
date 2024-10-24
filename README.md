@@ -97,4 +97,6 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mihirkudale)](https://github.com/DenverCoder1/github-readme-streak-stats)
   
-**_Thanks for visiting my profile._**
+<p><img align="left" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><em><b>I love connecting with diverse people</b>. Feel free to say <b>hi</b>, I'd be happy to meet you!</em></p>
+
+<img height="120" alt="Thank you for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
